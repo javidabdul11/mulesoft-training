@@ -1,6 +1,6 @@
-Host: bgnbeiu3y2t4kh6hoaky-mysql.services.clever-cloud.com
-Database Name: bgnbeiu3y2t4kh6hoaky
-User: u73701lov5wbyubj
-Password: NABGp3ldKQoxV4kFQL7v
+Host: b0jarrzjnkyud62dyxgk-mysql.services.clever-cloud.com
+Database Name: b0jarrzjnkyud62dyxgk
+User: uaqhpnmifejcfijg
+Password: aYigGpDzHeOvBSrBNlT1
 Port: 3306
-Connection URI: mysql://u73701lov5wbyubj:NABGp3ldKQoxV4kFQL7v@bgnbeiu3y2t4kh6hoaky-mysql.services.clever-cloud.com:3306/bgnbeiu3y2t4kh6hoaky
+Connection URI: mysql://uaqhpnmifejcfijg:aYigGpDzHeOvBSrBNlT1@b0jarrzjnkyud62dyxgk-mysql.services.clever-cloud.com:3306/b0jarrzjnkyud62dyxgk
