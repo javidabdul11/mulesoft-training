@@ -4,3 +4,9 @@ db: bd9cxzbj5ogdya7h6ety
 user: uxkediqchlehiaol
 pass: JUHpb5PbiXqo9jH9KJBR
 port: 3306
+
+
+
+salesforce:
+Username: javid@usttvm.com
+Security token (case-sensitive): 6miTHWSYuUjl5g0wCCh3zDtd4 
